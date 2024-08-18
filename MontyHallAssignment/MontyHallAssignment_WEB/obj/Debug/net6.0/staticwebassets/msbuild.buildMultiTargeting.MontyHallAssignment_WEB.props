@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MontyHallAssignment_WEB.props" />
+</Project>

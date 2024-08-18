@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|c:\\users\\asus\\desktop\\dce_assignment\\montyhallassignment\\montyhallassignment_bl\\services\\montyhallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|solutionrelative:montyhallassignment_bl\\services\\montyhallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|c:\\users\\asus\\desktop\\dce_assignment\\montyhallassignment\\montyhallassignment_bl\\models\\dtos\\simulationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|solutionrelative:montyhallassignment_bl\\models\\dtos\\simulationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|c:\\users\\asus\\desktop\\dce_assignment\\montyhallassignment\\montyhallassignment_bl\\services\\imontyhallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|solutionrelative:montyhallassignment_bl\\services\\imontyhallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE50BB7E-1B9C-47F8-852A-A1608C9E1469}|MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj|c:\\users\\asus\\desktop\\dce_assignment\\montyhallassignment\\montyhallassignment_web\\controllers\\montyhallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE50BB7E-1B9C-47F8-852A-A1608C9E1469}|MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj|solutionrelative:montyhallassignment_web\\controllers\\montyhallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|c:\\users\\asus\\desktop\\dce_assignment\\montyhallassignment\\montyhallassignment_bl\\models\\dtos\\simulationrq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|solutionrelative:montyhallassignment_bl\\models\\dtos\\simulationrq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE50BB7E-1B9C-47F8-852A-A1608C9E1469}|MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj|c:\\users\\asus\\desktop\\dce_assignment\\montyhallassignment\\montyhallassignment_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE50BB7E-1B9C-47F8-852A-A1608C9E1469}|MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj|solutionrelative:montyhallassignment_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE50BB7E-1B9C-47F8-852A-A1608C9E1469}|MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj|c:\\users\\asus\\desktop\\dce_assignment\\montyhallassignment\\montyhallassignment_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE50BB7E-1B9C-47F8-852A-A1608C9E1469}|MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj|solutionrelative:montyhallassignment_web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE50BB7E-1B9C-47F8-852A-A1608C9E1469}|MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj|c:\\users\\asus\\desktop\\dce_assignment\\montyhallassignment\\montyhallassignment_web\\montyhallassignment_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE50BB7E-1B9C-47F8-852A-A1608C9E1469}|MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj|solutionrelative:montyhallassignment_web\\montyhallassignment_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|c:\\users\\asus\\desktop\\dce_assignment\\montyhallassignment\\montyhallassignment_bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A81BAA-242F-43A7-B226-1BBA1DFEF7B0}|MontyHallAssignment_BL\\MontyHallAssignment_BL.csproj|solutionrelative:montyhallassignment_bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimulationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Models\\DTOs\\SimulationResponse.cs",
+              "RelativeDocumentMoniker": "MontyHallAssignment_BL\\Models\\DTOs\\SimulationResponse.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Models\\DTOs\\SimulationResponse.cs",
+              "RelativeToolTip": "MontyHallAssignment_BL\\Models\\DTOs\\SimulationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:28:44.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMontyHallService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Services\\IMontyHallService.cs",
+              "RelativeDocumentMoniker": "MontyHallAssignment_BL\\Services\\IMontyHallService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Services\\IMontyHallService.cs",
+              "RelativeToolTip": "MontyHallAssignment_BL\\Services\\IMontyHallService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:24:40.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_WEB\\Program.cs",
+              "RelativeDocumentMoniker": "MontyHallAssignment_WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_WEB\\Program.cs",
+              "RelativeToolTip": "MontyHallAssignment_WEB\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:13:35.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MontyHallService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Services\\MontyHallService.cs",
+              "RelativeDocumentMoniker": "MontyHallAssignment_BL\\Services\\MontyHallService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Services\\MontyHallService.cs",
+              "RelativeToolTip": "MontyHallAssignment_BL\\Services\\MontyHallService.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAkwEAAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:13:03.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MontyHallController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_WEB\\Controllers\\MontyHallController.cs",
+              "RelativeDocumentMoniker": "MontyHallAssignment_WEB\\Controllers\\MontyHallController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_WEB\\Controllers\\MontyHallController.cs",
+              "RelativeToolTip": "MontyHallAssignment_WEB\\Controllers\\MontyHallController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:04:14.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimulationRQ.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Models\\DTOs\\SimulationRQ.cs",
+              "RelativeDocumentMoniker": "MontyHallAssignment_BL\\Models\\DTOs\\SimulationRQ.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Models\\DTOs\\SimulationRQ.cs",
+              "RelativeToolTip": "MontyHallAssignment_BL\\Models\\DTOs\\SimulationRQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:20:25.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MontyHallAssignment_WEB.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj",
+              "RelativeDocumentMoniker": "MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj",
+              "RelativeToolTip": "MontyHallAssignment_WEB\\MontyHallAssignment_WEB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T18:14:14.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "MontyHallAssignment_WEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_WEB\\appsettings.json",
+              "RelativeToolTip": "MontyHallAssignment_WEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T19:13:05.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Class1.cs",
+              "RelativeDocumentMoniker": "MontyHallAssignment_BL\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\DCE_Assignment\\MontyHallAssignment\\MontyHallAssignment_BL\\Class1.cs",
+              "RelativeToolTip": "MontyHallAssignment_BL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:54:30.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\bin\Debug\net6.0\MontyHallAssignment_BL.deps.json
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\bin\Debug\net6.0\MontyHallAssignment_BL.dll
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\bin\Debug\net6.0\MontyHallAssignment_BL.pdb
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\obj\Debug\net6.0\MontyHallAssignment_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\obj\Debug\net6.0\MontyHallAssignment_BL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\obj\Debug\net6.0\MontyHallAssignment_BL.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\obj\Debug\net6.0\MontyHallAssignment_BL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\obj\Debug\net6.0\MontyHallAssignment_BL.dll
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\obj\Debug\net6.0\refint\MontyHallAssignment_BL.dll
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\obj\Debug\net6.0\MontyHallAssignment_BL.pdb
+C:\Users\ASUS\Desktop\DCE_Assignment\MontyHallAssignment\MontyHallAssignment_BL\obj\Debug\net6.0\ref\MontyHallAssignment_BL.dll
